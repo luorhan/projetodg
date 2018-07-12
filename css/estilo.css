@@ -1,0 +1,80 @@
+#menu ul li{
+    padding: 5px 10px;
+    display:inline-block;
+}
+
+#menu ul li a{
+    font-family: 'Luckiest Guy', cursive;
+    font-size:26px;
+    text-decoration:none;
+    color:black;
+}
+#menu ul li a:hover{
+    background-color:#95252b;
+    color: black;
+    border-bottom:3px solid black;
+}
+
+#menu ul {
+    margin:-8px -8px 5px -9px;
+    
+    background-color:#95252b;
+    color:white;
+}
+
+#banner {
+    margin-left:-9px;
+    width:1924px;
+    height:500px;
+}
+
+body {
+    background-color:#ea2f39;
+}
+
+.art {
+    background-color:white;
+    align:center;
+    width:35%;
+    height:auto;
+
+}
+
+
+.art-header{
+    list-style-type:none;
+    padding: 0px 0px 0px 5px;
+
+}
+
+.art-header{
+    list-style-type:none;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+
+
+}
+.date ul li{
+    background-color:#95252b;
+    list-style-type:none;
+    text-align: center;
+    
+    
+}
+.date ul{
+    padding: 0px 0px 0px 10px;
+}
+
+.art-title{
+    background-color:#95252b;   
+
+}
+
+.art-paragraph{
+
+}
+
+.art-img{
+
+}
+
