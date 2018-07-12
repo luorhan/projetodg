@@ -1,5 +1,12 @@
-#menu li{
-    display:inline;
+#menu ul li{
+    padding: 5px 10px;
+    display:inline-block;
+}
+
+#menu ul li:hover{
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #EA0000;
 }
 
 #menu ul {
