@@ -32,3 +32,44 @@ body {
     background-color:#ea2f39;
 }
 
+.art {
+    background-color:white;
+    align:center;
+    width:35%;
+    height:auto;
+
+}
+
+
+.art-header{
+    background-color:#95252b;
+    list-style-type:none;
+    
+
+}
+
+.art-header ul li{
+    list-style-type:none;
+
+}
+
+.art-title ul li{
+    display:inline-block;
+}
+
+.art-title{
+    
+
+}
+
+.art-paragraph{
+
+}
+
+.art-img{
+
+}
+
+.date {
+
+}
