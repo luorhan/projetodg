@@ -1,3 +1,8 @@
-li{
+#menu li{
     display:inline;
+}
+
+#menu ul {
+    background-color:lightgrey;
+    color:white;
 }
