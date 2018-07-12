@@ -3,13 +3,32 @@
     display:inline-block;
 }
 
-#menu ul li:hover{
-    background-color:#D6D6D6;
-    color: #6D6D6D;
-    border-bottom:3px solid #EA0000;
+#menu ul li a{
+    font-family: 'Luckiest Guy', cursive;
+    font-size:26px;
+    text-decoration:none;
+    color:black;
+}
+#menu ul li a:hover{
+    background-color:#95252b;
+    color: black;
+    border-bottom:3px solid black;
 }
 
 #menu ul {
-    background-color:lightgrey;
+    margin:-8px -8px 5px -9px;
+    
+    background-color:#95252b;
     color:white;
 }
+
+#banner {
+    margin-left:-9px;
+    width:1924px;
+    height:500px;
+}
+
+body {
+    background-color:#ea2f39;
+}
+
